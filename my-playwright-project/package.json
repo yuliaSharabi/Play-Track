@@ -1,0 +1,16 @@
+{
+  "name": "my-playwright-project",
+  "version": "1.0.0",
+  "description": "A Playwright project for testing web applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "dependencies": {
+    "playwright": "^1.0.0"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
